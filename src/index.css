@@ -1,0 +1,8 @@
+@import "@b1nd/dodam-design-system/colors/colors.css";
+
+body {
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
