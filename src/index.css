@@ -1,8 +1,14 @@
 @import "@b1nd/dodam-design-system/colors/colors.css";
 
+* {
+  font-family: sans-serif;
+}
+
 body {
   overflow: hidden;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  user-select: none;
+  touch-action: pan-x pan-y;
 }
